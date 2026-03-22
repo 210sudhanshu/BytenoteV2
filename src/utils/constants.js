@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://bytenotev2.onrender.com' //backend url
