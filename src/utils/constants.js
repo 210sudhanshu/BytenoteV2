@@ -1,1 +1,1 @@
-export const BASE_URL = 'https://bytenotev2.onrender.com' //backend url
+export const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000'
